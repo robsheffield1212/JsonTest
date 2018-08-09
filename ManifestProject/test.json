@@ -1,0 +1,452 @@
+﻿{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000002/manifest.json",
+  "type": "Manifest",
+  "label": { "en": [ "WS6689 Melanogrammus aeglefinus r1" ] },
+  "metadata": [
+    {
+      "label": { "en": [ "Title" ] },
+      "value": { "en": [ "Melanogrammus aeglefinus r1" ] }
+    },
+    {
+      "label": { "en": [ "Collection" ] },
+      "value": { "en": [ "Wildlife species reels" ] }
+    },
+    {
+      "label": { "en": [ "Format" ] },
+      "value": { "en": [ "1 tape reel" ] }
+    },
+    {
+      "label": { "en": [ "Identifier" ] },
+      "value": { "en": [ "testymctestface" ] }
+    },
+    {
+      "label": { "en": [ "Digitisation funded by" ] },
+      "value": { "en": [ "Heritage Lottery Fund" ] }
+    },
+    {
+      "label": { "en": [ "Digitised by" ] },
+      "value": { "en": [ "The British Library, 2018" ] }
+    }
+  ],
+  "logo": {
+    "id": "https://www.bl.uk/images/bl_logo_100.gif",
+    "type": "Image"
+  },
+  "attribution": { "en": [ "<span>Rights unassigned - staff access only</span>" ] },
+  "sequences": [
+    {
+      "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000001",
+      "type": "Sequence",
+      "canvases": [
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004",
+          "type": "Canvas",
+          "label": { "en": [ "Tape 1 Side 1" ] },
+          "duration": 521.4,
+          "content": [
+            {
+              "type": "AnnotationPage",
+              "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1",
+              "items": [
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/1",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x000015.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/2",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x000017.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/3",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x000019.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/4",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x00001b.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/5",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x00001d.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/6",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x00001f.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                },
+                {
+                  "type": "Annotation",
+                  "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004/anno1/7",
+                  "motivation": "painting",
+                  "timeMode": "trim",
+                  "body": [
+                    {
+                      "type": "Choice",
+                      "items": [
+                        {
+                          "id": "http://resources.digirati.com/bl/C615_70/vdc_100055625567.0x000021.mp4",
+                          "type": "Audio",
+                          "format": "audio/mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "target": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000004"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000002/top",
+      "label": { "en": [ "Melanogrammus aeglefinus r1" ] },
+      "type": "Range",
+      "members": [
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000005",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Date" ] },
+              "value": { "en": [ "1967-04" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland (in captivity) Aberdeen Large Concrete Tank, Marine Lab" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "copy or original: first generation copy multiple cuts Extract of this recording used in 'Sounds of the deep. An exploration of life in our seas.' BRITISH LIBRARY NSACD 29 (2007) (1CD0265419 BD1)" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000007",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Date" ] },
+              "value": { "en": [ "1968-07" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland Highland Loch Torridon" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "copy or original: first generation copy Brookdeal amplifier used between hydrophone and recorder." ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000009",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland (in captivity) Aberdeen Large Concrete Tank, Marine Lab" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "Recordist's reference: Track 10" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x00000b",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland (in captivity) Aberdeen Large Concrete Tank, Marine Lab" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "Recordist's reference: Track 11" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x00000d",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland (in captivity) Aberdeen Large Concrete Tank, Marine Lab" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "Recordist's reference: track 12" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x00000f",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland (in captivity) Aberdeen Large Concrete Tank, Marine Lab" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "Recordist's reference: track 13" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+
+          "members": [
+
+          ]
+        },
+        {
+          "id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055625567.0x000011",
+          "type": "Range",
+          "label": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] },
+          "metadata": [
+            {
+              "label": { "en": [ "Species" ] },
+              "value": { "en": [ "Melanogrammus aeglefinus : Haddock - Gadidae" ] }
+            },
+            {
+              "label": { "en": [ "Creator" ] },
+              "value": { "en": [ "Hawkins, A. D. (sound recordist)" ] }
+            },
+            {
+              "label": { "en": [ "Collection" ] },
+              "value": { "en": [ "Wildlife species reels" ] }
+            },
+            {
+              "label": { "en": [ "Place" ] },
+              "value": { "en": [ "Scotland Isle of Skyle Loch Ainort" ] }
+            },
+            {
+              "label": { "en": [ "Description" ] },
+              "value": { "en": [ "Recordist's reference: Track 15" ] }
+            },
+            {
+              "label": { "en": [ "Identifier" ] },
+              "value": { "en": [ "testymctestface" ] }
+            }
+          ],
+          "members": [
+          ]
+        }
+      ]
+    }
+  ]
+}

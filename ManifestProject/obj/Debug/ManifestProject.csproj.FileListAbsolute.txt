@@ -1,0 +1,66 @@
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\ApplicationInsights.config
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\csc.exe
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\System.Collections.Immutable.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\System.Reflection.Metadata.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\vbc.exe
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\VBCSCompiler.exe
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\roslyn\VBCSCompiler.exe.config
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\ManifestProject.dll.config
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\ManifestProject.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\ManifestProject.pdb
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.Agent.Intercept.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.DependencyCollector.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.Web.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.WindowsServer.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.ApplicationInsights.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.DependencyCollector.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.Web.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.AI.WindowsServer.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.ApplicationInsights.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\obj\Debug\ManifestProject.dll
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\obj\Debug\ManifestProject.pdb
+\\v8b-bsp2\users\rsheffield\visual studio 2015\Projects\ManifestProject\ManifestProject\obj\Debug\ManifestProject.csprojResolveAssemblyReference.cache
+C:\GitRepository\ManifestProject\bin\ApplicationInsights.config
+C:\GitRepository\ManifestProject\bin\roslyn\csc.exe
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitRepository\ManifestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitRepository\ManifestProject\bin\roslyn\System.Collections.Immutable.dll
+C:\GitRepository\ManifestProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitRepository\ManifestProject\bin\roslyn\vbc.exe
+C:\GitRepository\ManifestProject\bin\roslyn\VBCSCompiler.exe
+C:\GitRepository\ManifestProject\bin\roslyn\VBCSCompiler.exe.config
+C:\GitRepository\ManifestProject\bin\ManifestProject.dll.config
+C:\GitRepository\ManifestProject\bin\ManifestProject.dll
+C:\GitRepository\ManifestProject\bin\ManifestProject.pdb
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.Web.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.WindowsServer.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.ApplicationInsights.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.Web.xml
+C:\GitRepository\ManifestProject\bin\Microsoft.AI.WindowsServer.xml
+C:\GitRepository\ManifestProject\bin\Microsoft.ApplicationInsights.xml
+C:\GitRepository\ManifestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitRepository\ManifestProject\obj\Debug\ManifestProject.csprojResolveAssemblyReference.cache
+C:\GitRepository\ManifestProject\obj\Debug\ManifestProject.dll
+C:\GitRepository\ManifestProject\obj\Debug\ManifestProject.pdb
